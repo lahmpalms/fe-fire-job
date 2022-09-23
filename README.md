@@ -15,7 +15,12 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# .env file
+$ SERVER_PORT = 8888
+
 ```
+
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
